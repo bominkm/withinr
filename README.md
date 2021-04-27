@@ -1,6 +1,6 @@
 # withinr
 
-The goal of withinr package is to find a location index within a certain Radius and a closest location. You need to rename column 'latitude' to 'lat' and 'longitude' to 'lon'. Distance unit is meter(m).
+The goal of **'withinr'** package is to find a location index within a certain Radius and a closest location. You can use **'withinr'** function and **'closestr'** in this package. You need to rename column 'latitude' to 'lat' and 'longitude' to 'lon'. Distance unit is meter(m).
 
 ## Installation
 
